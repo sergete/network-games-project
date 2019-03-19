@@ -3,6 +3,9 @@
 Enlace a Youtube, video explicativo del funcionamiento del juego Space Invaders
 https://youtu.be/a7l5akSZ8kY
 
+Video demostrativo más en detalle:
+https://www.youtube.com/watch?v=dF5vPbW1KaU
+
 IMPORTANTE: este documento es el equivalente en texto plano al pdf adjunto con el mismo nombre
 
 Juego de la asignatura Juegos en Red - Grado de Diseño y Desarrollo de Videojuegos (URJC)
